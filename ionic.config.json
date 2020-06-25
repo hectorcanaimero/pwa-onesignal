@@ -1,0 +1,7 @@
+{
+  "name": "smartframe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
