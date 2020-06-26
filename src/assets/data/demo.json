@@ -1,0 +1,10 @@
+[
+    {
+        "category": [
+            { "id": 1, "name": "Pizza", "slug": "pizza" },
+            { "id": 2, "name": "Helado", "slug": "helado" },
+            { "id": 3, "name": "Burguer", "slug": "burguer" },
+            { "id": 4, "name": "Bebidas", "slug": "bebidas" }
+        ]
+    }
+]

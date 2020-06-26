@@ -1,0 +1,18 @@
+[
+    {
+      "icon": "american-football",
+      "name": "Category",
+      "redirectTo": "/category"
+    },
+    {
+      "icon": "app-store",
+      "name": "Product",
+      "redirectTo": "/product"
+    },
+    {
+      "icon": "beaker",
+      "name": "Orders",
+      "redirectTo": "/orders"
+    }
+  ]
+  

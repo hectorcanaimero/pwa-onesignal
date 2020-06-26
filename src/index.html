@@ -32,6 +32,9 @@
       notifyButton: {
         enable: false,
       },
+      welcomeNotification	:{
+        disable: true
+      }
     });
     OneSignal.getUserId().then(function(userId) {
       console.log("OneSignal User ID:", userId);
